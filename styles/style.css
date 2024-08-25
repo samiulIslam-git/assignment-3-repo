@@ -2,4 +2,5 @@
     background-image:url(../assets/bg.jpg);
     width: 100%;
     background-size: cover;
+    padding-bottom: 6;
 }
